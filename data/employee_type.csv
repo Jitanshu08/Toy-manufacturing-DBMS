@@ -1,0 +1,21 @@
+employee_type_id,employee_type,department,salary_per_hour
+1,worker,Legal,93
+2,manager,Engineering,81
+3,worker,Sales,80
+4,machine operator,Marketing,51
+5,manager,Support,81
+6,worker,Research and Development,70
+7,machine operator,Human Recources,72
+8,manager,Accounting,75
+9,manager,Product,91
+10,machine operator,Management,68
+11,worker,Legal,65
+12,machine operator,Engineering,67
+13,worker,Sales,87
+14,manager,Marketing,56
+15,manager,Support,88
+16,worker,Research and Development,93
+17,manager,Human Recources,89
+18,worker,Accounting,60
+19,worker,Product,95
+20,worker,Management,55
